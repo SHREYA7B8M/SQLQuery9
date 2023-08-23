@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_9\Assesment_SQLQuery9\Assesment_SQLQuery9\bin\Debug\Assesment_SQLQuery9.exe.config
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_9\Assesment_SQLQuery9\Assesment_SQLQuery9\bin\Debug\Assesment_SQLQuery9.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_9\Assesment_SQLQuery9\Assesment_SQLQuery9\bin\Debug\Assesment_SQLQuery9.pdb
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_9\Assesment_SQLQuery9\Assesment_SQLQuery9\obj\Debug\Assesment_SQLQuery9.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_9\Assesment_SQLQuery9\Assesment_SQLQuery9\obj\Debug\Assesment_SQLQuery9.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_9\Assesment_SQLQuery9\Assesment_SQLQuery9\obj\Debug\Assesment_SQLQuery9.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_9\Assesment_SQLQuery9\Assesment_SQLQuery9\obj\Debug\Assesment_SQLQuery9.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Day_9\Assesment_SQLQuery9\Assesment_SQLQuery9\obj\Debug\Assesment_SQLQuery9.pdb
